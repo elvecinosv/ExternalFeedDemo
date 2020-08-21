@@ -1,0 +1,22 @@
+{
+    "adserver": {
+        "Listings": [{
+            "Title": "We're Open for Business! Find Your Toyota Camry in Miami <!-- awBtn14 cst=carmax-->",
+            "Description1": "Shop with Confidence! Our Top Priority is the Safety of Our Customers",
+            "Description2": "Every Pre-Owned Vehicle Will Be Sanitized for your Protection!",
+            "LogoUrl": "\/\/images.autobytel.com\/cyber\/430932\/i4T1BF1FK4HU298168_1.jpg",
+            "LandingUrl": "\/\/cm.awadserver.com\/click\/?impressionstate=eyJfaWQiOiI1Nzk4YmFjZS1mY2VmLTRjNDEtOWNlOC1hM2RmMjc5ZTAzOGUiLCJVaWQiOiIyZDE1YzBkMy01NDA1LTQxNzgtYTM2YS1hODJiZTVkOWJjY2MiLCJBY2lkIjoiMTEzMDE3IiwiUnVsIjoiaHR0cHM6Ly93d3cuY2FybWF4LmNvbS9jYXIvMTg5NzgwNTA%2fYWRjb2RlPUFXQiZ1dG1fY2FtcGFpZ249TEdfQUZGJnV0bV9zb3VyY2U9TEdfQUZGX0FXQiZ1dG1fbWVkaXVtPWRpcyZ1dG1fY29udGVudD1hYmFuZG9uZXIiLCJQY2lkIjoiMjQyNiIsIkxpZCI6IjE3NTIwMyIsIlJhbmtpbmdBbGdvcml0aG0iOiJNTCJ9",
+            "DisplayUrl": "www.carmax.com",
+            "TrafficType": 1,
+            "Price": 17998,
+            "Mileage": 34406,
+            "Year": 2017,
+            "AdvType": 3,
+            "MPGCity": "24",
+            "MPGHighway": "33",
+            "DriveType": "2WD",
+            "Color": "Silver"
+        }],
+        "UserId": "de0b06d9-f5a3-4e29-a6c2-6140e7d7e65e"
+    }
+}
