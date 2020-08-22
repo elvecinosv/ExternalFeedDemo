@@ -8,6 +8,7 @@
             "LandingUrl": "\/\/google.com",
             "DisplayUrl": "www.externalfeed.com",
             "TrafficType": 1,
+            "AdvType": 13,
             "Price": 17998,
             "Mileage": 34406,
             "Year": 2017,
