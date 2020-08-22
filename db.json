@@ -17,14 +17,22 @@
             "DriveType": "2WD",
             "Color": "Silver"
         },{
-            "Title": "Clearance Deals on New Honda CR-V in New York <!--cst=ForeverCar-->",
+            "Title": "Clearance Deals on New Honda CR-V in New York <!--cst=carmax-->",
             "Description1": "Check on the Internet Prices for Honda CR-V",
             "Description2": "Click Here for Online Pricing on These Deals",
             "LogoUrl": "//cdn-adimages.awadserver.com/200702064519.jpg",
             "LandingUrl": "//cm.awadserver.com/click/?impressionstate=eyJfaWQiOiJmN2FjNWQzMC02NmM2LTRlYzgtYmM4OS02OGRiZTE1YTJkZDgiLCJVaWQiOiI3NTI0NjA1Zi00ZjBlLTRhNjItOTU3OS03YjUwYjRhNzMzODciLCJBY2lkIjoiMTIwNTM3IiwiUnVsIjoiaHR0cDovL29ubGluZWF1dG9kZWFsLm5ldC8%2fa3cxPUhvbmRhJTIwQ1ItViZiYWNrZmlsbD0wJmRvbWFpbm5hbWU9MCZzZWFyY2hib3g9MCZrdzI9SG9uZGElMjBDUi1WJTIwZGVhbHMma3czPUhvbmRhJTIwQ1ItViUyMGxlYXNlJTIwc3BlY2lhbHMma3c0PUhvbmRhJTIwQ1ItViUyMGluJTIwe2NpdHl9Jmt3NT1jbGVhcmFuY2UlMjBkZWFscyUyMG9uJTIwSG9uZGElMjBDUi1WIiwiUGNpZCI6IjI0MjYiLCJMaWQiOiIxNzY1NzEiLCJSYW5raW5nQWxnb3JpdGhtIjoiTUwifQ%3d%3d",
             "DisplayUrl": "onlineautodeal.net",
             "TrafficType": 1,
-            "AdvType": 13
+            "AdvType": 13,
+            "Price": 171998,
+            "Mileage": 314406,
+            "Year": 2019,
+            "AdvType": 3,
+            "MPGCity": "24",
+            "MPGHighway": "33",
+            "DriveType": "2WD",
+            "Color": "Silver"
         },{
             "Title": "Find Ways to Reduce Your Auto Insurance Cost in New York <!-- awBtn7 -->",
             "Description1": "Make Auto Insurance carriers get you the best price!",
