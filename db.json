@@ -1,7 +1,7 @@
 {
     "adserver": {
         "Listings": [{
-            "Title": "We're Open for Business! Find Your Toyota Camry in Miami <!-- awBtn14 cst=ForeverCar-->",
+            "Title": "We're Open for Business! Find Your Toyota Camry in Miami <!--cst=uccv2-->",
             "Description1": "Shop with Confidence! Our Top Priority is the Safety of Our Customers",
             "Description2": "Every Pre-Owned Vehicle Will Be Sanitized for your Protection!",
             "LogoUrl": "\/\/images.autobytel.com\/cyber\/430932\/i4T1BF1FK4HU298168_1.jpg",
@@ -16,6 +16,24 @@
             "MPGHighway": "33",
             "DriveType": "2WD",
             "Color": "Silver"
+        },{
+            "Title": "Clearance Deals on New Honda CR-V in New York <!--cst=ForeverCar-->",
+            "Description1": "Check on the Internet Prices for Honda CR-V",
+            "Description2": "Click Here for Online Pricing on These Deals",
+            "LogoUrl": "//cdn-adimages.awadserver.com/200702064519.jpg",
+            "LandingUrl": "//cm.awadserver.com/click/?impressionstate=eyJfaWQiOiJmN2FjNWQzMC02NmM2LTRlYzgtYmM4OS02OGRiZTE1YTJkZDgiLCJVaWQiOiI3NTI0NjA1Zi00ZjBlLTRhNjItOTU3OS03YjUwYjRhNzMzODciLCJBY2lkIjoiMTIwNTM3IiwiUnVsIjoiaHR0cDovL29ubGluZWF1dG9kZWFsLm5ldC8%2fa3cxPUhvbmRhJTIwQ1ItViZiYWNrZmlsbD0wJmRvbWFpbm5hbWU9MCZzZWFyY2hib3g9MCZrdzI9SG9uZGElMjBDUi1WJTIwZGVhbHMma3czPUhvbmRhJTIwQ1ItViUyMGxlYXNlJTIwc3BlY2lhbHMma3c0PUhvbmRhJTIwQ1ItViUyMGluJTIwe2NpdHl9Jmt3NT1jbGVhcmFuY2UlMjBkZWFscyUyMG9uJTIwSG9uZGElMjBDUi1WIiwiUGNpZCI6IjI0MjYiLCJMaWQiOiIxNzY1NzEiLCJSYW5raW5nQWxnb3JpdGhtIjoiTUwifQ%3d%3d",
+            "DisplayUrl": "onlineautodeal.net",
+            "TrafficType": 1,
+            "AdvType": 13
+        },{
+            "Title": "Find Ways to Reduce Your Auto Insurance Cost in New York <!-- awBtn7 -->",
+            "Description1": "Make Auto Insurance carriers get you the best price!",
+            "Description2": "Easy, Safe and from Home, Cut Your Car's Monthly Payment Today!",
+            "LogoUrl": "//cdn-adimages.awadserver.com/200420093906.jpg",
+            "LandingUrl": "//cm.awadserver.com/click/?impressionstate=eyJfaWQiOiJmN2FjNWQzMC02NmM2LTRlYzgtYmM4OS02OGRiZTE1YTJkZDgiLCJVaWQiOiI3NTI0NjA1Zi00ZjBlLTRhNjItOTU3OS03YjUwYjRhNzMzODciLCJBY2lkIjoiMTE4MzQ2IiwiUnVsIjoiaHR0cDovL2ZpbmFuY2UuYXV0b3dlYi5jb20vZHluYW1pY2xhbmRlci8%2fcT1CZXN0K0NhcitJbnN1cmFuY2UrQ29tcGFuaWVzJmN0c3A9TmV3IFlvcmsmY2hubT1iZXN0X2Nhcl9pbnN1cmFuY2VfY29tcGFuaWVzX05ZX2Rlc2t0b3BfaW52ZW50b3J5IiwiUGNpZCI6IjI0MjYiLCJMaWQiOiIxNzM2MDAiLCJSYW5raW5nQWxnb3JpdGhtIjoiTUwifQ%3d%3d",
+            "DisplayUrl": "Finance.Autoweb.com/AutoInsurance",
+            "TrafficType": 1,
+            "AdvType": 9
         }],
         "UserId": "de0b06d9-f5a3-4e29-a6c2-6140e7d7e65e"
     }
